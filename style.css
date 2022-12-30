@@ -1,3 +1,13 @@
 *{
-    background-color: #808080;
+    background-color: #e64949;
+}
+h1{
+    color: aquamarine;
+    font-weight: 300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    color: blue;
+    text-align: center;
+    
 }
